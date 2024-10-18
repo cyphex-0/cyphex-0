@@ -1,3 +1,8 @@
+
+![77b4ad24a3e600d5034669940bc9c267](https://github.com/user-attachments/assets/4d10a282-98bc-46e1-b9dc-55b8e3495d3e)
+
+
+
 <h1 align="center">Greetings 👋, I'm Shah Makhdum, but you may refer to me as CYPHEX.</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" alt="Coding">

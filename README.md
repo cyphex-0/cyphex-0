@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/4d10a282-98bc-46e1-b9dc-55b8e3495d3e" width="1000">
-
-
+<img src="https://github.com/user-attachments/assets/10ba8384-df14-473f-ae68-d17c01d0fc65" width="1000">
 
 <h1 align="center">Greetings 👋, I'm Shah Makhdum, but you may refer to me as CYPHEX.</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>

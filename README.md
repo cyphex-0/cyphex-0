@@ -2,7 +2,7 @@
 
 <h1 align="center">Greetings 👋, I'm Shah Makhdum, but you may refer to me as CYPHEX.</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif" alt="Coding">
+<img align="right" width="500" src="https://github.com/user-attachments/assets/332d5171-45ae-4a8c-a8b5-3f7ebc640752" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyphex-0&label=Profile%20views&color=0e75b6&style=flat" alt="cyphex-0" /> </p>
 

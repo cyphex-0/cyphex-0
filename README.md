@@ -30,6 +30,7 @@
 <a href="https://linkedin.com/in/shahmakhdum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahmakhdum" height="30" width="40" /></a>
 <a href="https://fb.com/cyphex.jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyphex.jim" height="30" width="40" /></a>
 <a href="https://instagram.com/cyphex_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyphex_0" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/4DdReDAF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4DdReDAF" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

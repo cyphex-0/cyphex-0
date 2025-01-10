@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **a web app.**
 
-- 🎓 I am currently advancing my knowledge in **Blockchain technology, with a focus on Ethereum and Solidity.**
+- 🎓 I am currently advancing my knowledge in **System-Level Programming.**
 
 - 👯 You are welcome to collaborate with me on learning new technologies or developing projects **within my capabilities.**
 
-- 🤝 I’m looking for help with **Blockchain, Ethereum and Solidity.**
+- 🤝 I’m looking for help with **System-Level Programming.**
 
 - 💬 Ask me about **Full-Stack Development, DSA, CP**
 

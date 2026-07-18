@@ -175,7 +175,7 @@ I enjoy building applications that are not only functional but also intelligent.
 <!-- ─── GitHub Trophies ─── -->
 <p align="center">
   <a href="https://github.com/cyphex-0">
-    <img src="https://github-profile-trophy.vercel.app/?username=cyphex-0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=cyphex-0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 

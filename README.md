@@ -37,10 +37,8 @@ I enjoy building applications that are not only functional but also intelligent.
 <br/>
 
 - 🔭 **Currently building:** A **Terminal-Native AI Coding Agent** — an autonomous coding assistant that operates directly within your local command-line interface.
-
-- 🧠 **Multi-Agent Architecture:** Designing a **Multi-Agent Swarm** system that uses a team of specialized AI workers and a Python coprocessor for deep, efficient codebase understanding.
-
-- ⚡ **Self-Healing Execution:** Building systems that autonomously plan tasks, run code in secure sandboxes, fix their own errors, and safely manage Git rollbacks.
+  - 🧠 **Multi-Agent Swarm** — Uses a team of specialized AI workers and a Python coprocessor for deep, efficient codebase understanding.
+  - ⚡ **Self-Healing Execution** — Autonomously plans tasks, runs code in secure sandboxes, fixes its own errors, and safely manages Git rollbacks.
 
 - 🌱 **Currently learning:** Advanced **Backend Development** & cutting-edge **AI** techniques.
 

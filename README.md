@@ -168,14 +168,14 @@ I enjoy building applications that are not only functional but also intelligent.
 <!-- ─── GitHub Streak ─── -->
 <p align="center">
   <a href="https://github.com/cyphex-0">
-    <img src="https://streak-stats.demolab.com/?user=cyphex-0&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyphex-0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <!-- ─── GitHub Trophies ─── -->
 <p align="center">
   <a href="https://github.com/cyphex-0">
-    <img src="https://github-profile-trophy.vercel.app/?username=cyphex-0&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=cyphex-0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 

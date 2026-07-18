@@ -172,19 +172,7 @@ I enjoy building applications that are not only functional but also intelligent.
   </a>
 </p>
 
-<!-- ─── GitHub Trophies ─── -->
-<p align="center">
-  <a href="https://github.com/cyphex-0">
-    <img src="https://github-trophies.vercel.app/?username=cyphex-0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
 
-<!-- ─── Activity Graph ─── -->
-<p align="center">
-  <a href="https://github.com/cyphex-0">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyphex-0&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-  </a>
-</p>
 
 <!-- ═══════════════ WAVE DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />

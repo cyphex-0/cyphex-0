@@ -158,17 +158,17 @@ I enjoy building applications that are not only functional but also intelligent.
 <!-- ─── Stats + Languages Side by Side ─── -->
 <p align="center">
   <a href="https://github.com/cyphex-0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyphex-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyphex-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/cyphex-0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyphex-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cyphex-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <!-- ─── GitHub Streak ─── -->
 <p align="center">
   <a href="https://github.com/cyphex-0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyphex-0&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=cyphex-0&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" alt="GitHub Streak" />
   </a>
 </p>
 

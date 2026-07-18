@@ -203,71 +203,9 @@ I enjoy building applications that are not only functional but also intelligent.
   </picture>
 </p>
 
-> 💡 *To enable the snake animation, add the [Snake Game](https://github.com/Platane/snk) GitHub Action to this repository. See the workflow file below.*
-
-<details>
-<summary>📄 Snake Animation Workflow (click to expand)</summary>
-
-Create `.github/workflows/snake.yml` in this repository:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate Snake Game
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: cyphex-0
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<!-- ═══════════════ WAVE DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ═══════════════ QUOTE ═══════════════════ -->
-
-## 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
 
 <!-- ═══════════════ FOOTER ═══════════════════ -->
 
-<br/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
-</p>
-
-<p align="center">
-  <i>Made with ❤️ by <a href="https://github.com/cyphex-0">Shah Makhdum Jim</a></i>
 </p>
